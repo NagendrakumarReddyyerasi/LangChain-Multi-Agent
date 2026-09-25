@@ -92,8 +92,8 @@ A powerful multi-agent research system built with LangChain that autonomously re
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/LangChain-Multi-Agent-Research-System.git
-cd LangChain-Multi-Agent-Research-System
+git clone https://github.com/yourusername/LangChain-Multi-Agent.git
+cd LangChain-Multi-Agent
 ```
 
 ### 2. Create Environment (Conda)
